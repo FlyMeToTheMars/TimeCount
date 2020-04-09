@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="057a5384-b5e2-4a21-a869-b02980ceeae4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\flyho\OneDrive\mvnsyn\repository" />
+        <option name="mavenHome" value="C:/Env/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aGp6t8FVMBy0r5y4VWoR2qqRl9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flyho\OneDrive\Project\TimeCount\src\main\resources" />
+      <recent name="C:\Users\flyho\OneDrive\Project\TimeCount\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Finish" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.clock.Finish" />
+      <module name="TimeCount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.clock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Review" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.clock.Review" />
+      <module name="TimeCount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.clock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.clock.Start" />
+      <module name="TimeCount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.clock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Review" />
+        <item itemvalue="Application.Finish" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="057a5384-b5e2-4a21-a869-b02980ceeae4" name="Default Changelist" comment="" />
+      <created>1586371612999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586371612999</updated>
+      <workItem from="1586371615452" duration="180000" />
+      <workItem from="1586371814462" duration="664000" />
+      <workItem from="1586396588818" duration="3682000" />
+      <workItem from="1586434297829" duration="154000" />
+      <workItem from="1586434463139" duration="304000" />
+      <workItem from="1586434778648" duration="607000" />
+      <workItem from="1586437991634" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="475" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586435367731">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="323" y="475" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1586435367731" />
+    <state x="917" y="642" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586434958506">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="917" y="642" key="#com.intellij.fileTypes.FileTypeChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1586434958506" />
+    <state x="728" y="432" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1586396614095">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="728" y="432" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1586396614095" />
+    <state x="503" y="431" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586396633507">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="503" y="431" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1586396633507" />
+    <state x="670" y="630" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1586371639801" />
+    <state x="832" y="643" key="FileChooserDialogImpl" timestamp="1586435319778">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="700" y="407" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1586397183903" />
+    <state x="832" y="643" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1586435319778" />
+    <state width="1516" height="302" key="GridCell.Tab.0.bottom" timestamp="1586435386935">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1683" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1586402976973" />
+    <state width="1516" height="302" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1586435386935" />
+    <state width="1516" height="302" key="GridCell.Tab.0.center" timestamp="1586435386935">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1683" height="224" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1586402976973" />
+    <state width="1516" height="302" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1586435386935" />
+    <state width="1516" height="302" key="GridCell.Tab.0.left" timestamp="1586435386935">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1683" height="224" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1586402976973" />
+    <state width="1516" height="302" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1586435386935" />
+    <state width="1516" height="302" key="GridCell.Tab.0.right" timestamp="1586435386935">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1683" height="224" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1586402976973" />
+    <state width="1516" height="302" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1586435386935" />
+    <state x="439" y="483" key="SettingsEditor" timestamp="1586438948875">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="292" y="200" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1586397312979" />
+    <state x="439" y="483" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1586438948875" />
+    <state x="477" y="641" key="com.intellij.ide.util.TipDialog" timestamp="1586437992496">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="477" y="641" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1586437992496" />
+  </component>
+</project>
